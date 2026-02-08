@@ -1,4 +1,5 @@
 #!/bin/bash
-echo "Build Successful!"
+echo "Build running..."
 date
+exit 1
 
